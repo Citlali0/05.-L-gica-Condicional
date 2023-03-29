@@ -3,11 +3,20 @@ body{
     padding:0;
     background: #e6ffee;
 }
-.titulo .contenido{
+.titulo {
     width: 100%;
     height: 300px;
-    background: #ceb5d9;
+    background: #e0c9eb;
+    color: #440c85;
     font-family: 'Nunito', sans-serif;
     font-weight: bolder;
     font-size: 45px;
+
+}
+
+.titulo .contenido{
+    color: #850c75;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    font-size: 25px
 }
